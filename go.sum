@@ -1,12 +1,4 @@
 git.apache.org/thrift.git v0.0.0-20180902110319-2566ecd5d999/go.mod h1:fPE2ZNJGynbRyZ4dJvy6G277gSllfV2HJqblrnkyeyg=
-git.imooc.com/wendell1000/account v0.1.2 h1:zE6wmem3DJUnYwlcw4b9dOR8zK0QdvkpqODrsBxXlGM=
-git.imooc.com/wendell1000/account v0.1.2/go.mod h1:XiyvjuNS5Vek8V6LVg38pJPuWXyi4veDquaX9kiboSU=
-git.imooc.com/wendell1000/infra v0.1.1 h1:Fwm1QNy/mRAbqcvg7ZktxGuJGJK+ohUQz2/C37qcPDs=
-git.imooc.com/wendell1000/infra v0.1.1/go.mod h1:eCJx3QjdptYIepVId0SC4GlOMfn245qYPrcjXwepmBA=
-git.imooc.com/wendell1000/resk v0.1.0 h1:n4hoddVd5gemW1eKCnmlcA1smu/P6jIPEYSaHd3MibY=
-git.imooc.com/wendell1000/resk v0.1.0/go.mod h1:EZCcHtnMNwsZLkFzDbVciOd97FDDJhEtzuY8LeO/P8w=
-git.imooc.com/wendell1000/resk v0.1.1 h1:AJOesy3+m972PrWD6/VOigjr5zv/miZcWUMu19604Q4=
-git.imooc.com/wendell1000/resk v0.1.1/go.mod h1:EZCcHtnMNwsZLkFzDbVciOd97FDDJhEtzuY8LeO/P8w=
 github.com/BurntSushi/toml v0.3.1 h1:WXkYYl6Yr3qBf1K79EBnL4mak0OimBfB0XUf9Vl28OQ=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym/WlBOVXweHU+Q+/VP0lqqI8lqeDx9IjBqo=
@@ -15,6 +7,12 @@ github.com/Joker/hpp v0.0.0-20180418125244-6893e659854a h1:PiDAizhfJbwZMISZ1Itx1
 github.com/Joker/hpp v0.0.0-20180418125244-6893e659854a/go.mod h1:MzD2WMdSxvbHw5fM/OXOFily/lipJWRc9C1px0Mt0ZE=
 github.com/Joker/jade v1.0.0 h1:lOCEPvTAtWfLpSZYMOv/g44MGQFAolbKh2khHHGu0Kc=
 github.com/Joker/jade v1.0.0/go.mod h1:efZIdO0py/LtcJRSa/j2WEklMSAw84WV0zZVMxNToB8=
+github.com/Kinggo/account v0.0.0 h1:MzFL3GcoyfVhEj4aQW7eP3wY9lLMD0NuvYtCRGV31yA=
+github.com/Kinggo/account v0.0.0/go.mod h1:AwOtoBw15wAHejpJ4vJqI87zloh3NvUxK2WEsfWzTYU=
+github.com/Kinggo/infra v0.0.2 h1:8mgUzlrNh8QpVqCqm5nr5/K6Vv0xazTYlxevnb0untU=
+github.com/Kinggo/infra v0.0.2/go.mod h1:E/bT2g7mykaboBTxfvhhStfqZBro/44CW15lRbeUvRg=
+github.com/Kinggo/resk v0.0.1 h1:x8AOVKVrKsCL03DvS9N9kxy/WzOjwhLUwjMg4muzOfM=
+github.com/Kinggo/resk v0.0.1/go.mod h1:EwzE/qMncc3ZFVV+qVriRnbzEo36/23h91awrRLNmCs=
 github.com/Shopify/goreferrer v0.0.0-20181106222321-ec9c9a553398 h1:WDC6ySpJzbxGWFh4aMxFFC28wwGp5pEuoTtvA4q/qQ4=
 github.com/Shopify/goreferrer v0.0.0-20181106222321-ec9c9a553398/go.mod h1:a1uqRtAwp2Xwc6WNPJEufxJ7fx3npB4UV/JOLmbu5I0=
 github.com/Shopify/sarama v1.19.0/go.mod h1:FVkBWblsNy7DGZRfXLU0O9RCGt5g3g3yEuWXgklEdEo=

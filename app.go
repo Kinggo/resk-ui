@@ -1,10 +1,10 @@
 package resk
 
 import (
-	_ "git.imooc.com/wendell1000/account/core/accounts"
-	"git.imooc.com/wendell1000/infra"
-	"git.imooc.com/wendell1000/infra/base"
-	_ "git.imooc.com/wendell1000/resk/core/envelopes"
+	_ "github.com/Kinggo/account/core/accounts"
+	"github.com/Kinggo/infra"
+	"github.com/Kinggo/infra/base"
+	_ "github.com/Kinggo/resk/core/envelopes"
 	_ "imooc.com/resk-ui/views"
 )
 

@@ -27,9 +27,9 @@ replace (
 )
 
 require (
-	git.imooc.com/wendell1000/account v0.1.2
-	git.imooc.com/wendell1000/infra v0.1.1
-	git.imooc.com/wendell1000/resk v0.1.1
+	github.com/Kinggo/account v0.0.0
+	github.com/Kinggo/infra v0.0.2
+	github.com/Kinggo/resk v0.0.1
 	github.com/kataras/iris v11.1.1+incompatible
 	github.com/prometheus/common v0.2.0
 	github.com/shopspring/decimal v0.0.0-20180709203117-cd690d0c9e24

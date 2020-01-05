@@ -1,8 +1,8 @@
 package users
 
 import (
-	acservices "git.imooc.com/wendell1000/account/services"
-	"git.imooc.com/wendell1000/infra/base"
+	acservices "github.com/Kinggo/account/services"
+	"github.com/Kinggo/infra/base"
 	log "github.com/sirupsen/logrus"
 	"github.com/tietang/dbx"
 	"strconv"

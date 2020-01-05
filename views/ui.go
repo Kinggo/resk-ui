@@ -2,9 +2,9 @@ package views
 
 import (
 	"fmt"
-	"git.imooc.com/wendell1000/infra"
-	"git.imooc.com/wendell1000/infra/base"
-	"git.imooc.com/wendell1000/resk/services"
+	"github.com/Kinggo/infra"
+	"github.com/Kinggo/infra/base"
+	"github.com/Kinggo/resk/services"
 	"github.com/kataras/iris"
 	"github.com/shopspring/decimal"
 	log "github.com/sirupsen/logrus"
